@@ -8,7 +8,7 @@ def test_add():
 
 
 def subtract(a, b):
-	return a + b #T B Fixed in step 8
+	return a - b #T B Fixed in step 8
 
 
 # to be  uncommented in step 5
